@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:train_ez/pages/infopage.dart';
 
-void onPressed() {
-
+void navigateToLoginSignup(BuildContext context) {
+  Navigator.push(
+    context,
+    MaterialPageRoute(
+      builder: (context) => PersonalInfoPage(),
+    ),
+  );
 }
 
 class LoginSignupPage extends StatelessWidget {
@@ -9,7 +15,7 @@ class LoginSignupPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return  Scaffold(
       body: Center(
         child: Padding(
           padding: EdgeInsets.all(16.0),
@@ -41,15 +47,17 @@ class LoginSignupPage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   ElevatedButton(
-                    onPressed: onPressed, 
+                    onPressed: (){navigateToLoginSignup(context);},
                     child: Text('Login')
                   ),
               
 
                   ElevatedButton(
-                    onPressed: onPressed, 
+                    onPressed: (){
+                      navigateToLoginSignup(context);
+                    },
                     child: Text('Signup')
-                  )
+                  ),
                 ],
               )
             ],
