@@ -1,3 +1,4 @@
+
 from flask import Flask, request
 from flask_socketio import SocketIO, emit
 import cv2
@@ -70,3 +71,4 @@ def handle_frame(data):
 
 if __name__ == '__main__':
     socketio.run(app, host='0.0.0.0', port=5000, debug=True)
+
