@@ -14,7 +14,8 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000, allow_unsafe_werkzeug=True)
+    app.run(debug=True, host='0.0.0.0', port=5000)
+    os.environ["WERKZEUG_RUN_MAIN"] = "1"
 
 socketio = SocketIO(app, cors_allowed_origins="*")  # Allow Flutter to connect
 
