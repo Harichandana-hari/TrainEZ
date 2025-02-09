@@ -10,7 +10,7 @@
 - Member 2: Harichandana M - [GEC Thrissur]
 - Member 3: Sneha Aravind  - [GEC Thrissur]
 
-### Hosted Project Link
+### Hosted Project Link [APK]
 [mention your project hosted project link here]
 
 ### Project Description
