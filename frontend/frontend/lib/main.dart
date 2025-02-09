@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 //import 'package:train_ez/pages/bottomnavscreen.dart';
-import 'package:train_ez/pages/infopage.dart';
+//import 'package:train_ez/pages/infopage.dart';
 //import 'package:train_ez/pages/exercises.dart';
 //import 'package:train_ez/pages/loginsignuppage.dart';
-//import 'package:train_ez/pages/onboarding.dart';
+import 'package:train_ez/pages/onboarding.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,9 +22,8 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Poppins',
         useMaterial3: true,
       ),
-      //home: const Onboarding(),
+      home: const Onboarding(),
       //home: PersonalInfoPage()
-
       //home: LoginSignupPage()
     );
   }
