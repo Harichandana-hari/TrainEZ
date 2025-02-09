@@ -67,9 +67,10 @@ class LoginSignupPage extends StatelessWidget {
     // );
 
     return MaterialApp(
-      theme: ThemeData.dark().copyWith(
-        scaffoldBackgroundColor:const Color.fromARGB(1, 255, 255, 255),
-      ),
+      debugShowCheckedModeBanner: false,
+      // theme: ThemeData.dark().copyWith(
+      //   scaffoldBackgroundColor:const Color.fromARGB(1, 255, 255, 255),
+      // ),
       home: const AndroidCompact2(),
     );
   }
