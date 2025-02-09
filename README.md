@@ -100,8 +100,8 @@ Analyzes user exercise form using image recognition for real-time feedback.
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![FlowChart](Flowchart.png)
+
 
 
 ## Team Contributions
