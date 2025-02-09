@@ -91,6 +91,7 @@ class HomePage extends StatelessWidget {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.vertical(bottom: Radius.circular(20)),
     ),
+    centerTitle: true,
         
         ),
       body: Padding(
@@ -184,7 +185,7 @@ class ExerciseListPage extends StatelessWidget {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.vertical(bottom: Radius.circular(20)),
     ),
-        
+        centerTitle: true,
         ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
@@ -257,6 +258,7 @@ class ProfilePage extends StatelessWidget {
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.vertical(bottom: Radius.circular(20)),
     ),
+    centerTitle: true,
         
         ),
       body: Center(

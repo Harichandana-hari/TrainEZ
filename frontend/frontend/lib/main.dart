@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:train_ez/pages/bottomnavscreen.dart';
+//import 'package:train_ez/pages/bottomnavscreen.dart';
+import 'package:train_ez/pages/infopage.dart';
 //import 'package:train_ez/pages/exercises.dart';
 //import 'package:train_ez/pages/loginsignuppage.dart';
 //import 'package:train_ez/pages/onboarding.dart';
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       //home: const Onboarding(),
-      home: BottomNavScreen(),
+      //home: PersonalInfoPage()
 
       //home: LoginSignupPage()
     );
