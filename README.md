@@ -11,7 +11,7 @@
 - Member 3: Sneha Aravind  - [GEC Thrissur]
 
 ### Hosted Project Link [APK]
-[mention your project hosted project link here]
+https://drive.google.com/file/d/1Y4a7q2dSUWkWqUHVvQj9ny4WutgYrIoP/view?usp=sharing
 
 ### Project Description
 TrainEZ is a **personal workout trainer app** that helps users achieve their fitness goals through **guided exercises** and **real-time feedback**. It uses **pose estimation** to analyze movements, provides **angle-based corrections**, and offers **customizable workout plans** tailored to individual goals. The app ensures users perform exercises correctly while tracking their progress for a seamless fitness experience.
