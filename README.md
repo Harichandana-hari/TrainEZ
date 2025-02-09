@@ -105,9 +105,9 @@ Analyzes user exercise form using image recognition for real-time feedback.
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anamika S Nair: UI designing
+- Harichandana M: Frontend Development
+- Sneha Aravind: Backend Development
 
 ---
 Made with ❤️ at TinkerHub
