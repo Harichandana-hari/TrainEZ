@@ -77,7 +77,7 @@ Allows users to create an account.
 ![Exercise Selection Page](Exercise.png)
 Lets users choose fitness goals like weight gain or weight loss.
 
-![Exercise List Page](Workout.png)
+![Workout](Workout.png)
 Shows a list of exercises based on the selected goal.
 
 ![Detection](Detect1.png)(Detect2.png)
