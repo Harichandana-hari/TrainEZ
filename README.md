@@ -71,11 +71,19 @@ For Software:
 ![LOGO](logo_page.png)
 Displays the app's branding.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![SignUp](signup.png)
+Allows users to create an account.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Exercise Selection Page](Exercise.png)
+Lets users choose fitness goals like weight gain or weight loss.
+
+![Exercise List Page](Workout.png)
+Shows a list of exercises based on the selected goal.
+
+![Detection](Detect1.png)(Detect2.png)
+Analyzes user exercise form using image recognition for real-time feedback.
+
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
