@@ -100,7 +100,7 @@ Analyzes user exercise form using image recognition for real-time feedback.
 
 
 # Diagrams
-![FlowChart](Flowchart.png)
+![FlowChart](flowchart.png)
 
 
 
