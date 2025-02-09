@@ -71,7 +71,7 @@ For Software:
 ![LOGO](logo_page.png)
 Displays the app's branding.
 
-![SignUp](signup.png)
+![SignUp](Sign_Up.png)
 Allows users to create an account.
 
 ![Exercise Selection Page](Exercise.png)
