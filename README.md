@@ -67,20 +67,34 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![LOGO](logo_page.png)
-Displays the app's branding.
+# Screenshots 
+- ![LOGO](Logo.png)  
+    Displays the app's branding.
 
-![SignUp](Sign_Up.png)
-Allows users to create an account.
+<br><br>
 
-![Exercise Selection Page](Exercise.png)
+-![SignUp](Sign_Up.png)   
+    Allows users to create an account.
+
+<br><br>
+
+-![PersonalInfo](Personal_Info.png)   
+    Allows users toenter their personal infomartion for personalised suggestions.
+
+<br><br>
+
+![Exercise Selection Page](Exercise.png)   
 Lets users choose fitness goals like weight gain or weight loss.
 
-![Workout](Workout.png)
+<br><br>
+
+![Workout](Workout.png)   
 Shows a list of exercises based on the selected goal.
 
-![Detection](Detect1.png)(Detect2.png)
+<br><br>
+
+![Detection](detect1.png) 
+![Detection](detect2.png)   
 Analyzes user exercise form using image recognition for real-time feedback.
 
 
@@ -89,35 +103,6 @@ Analyzes user exercise form using image recognition for real-time feedback.
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
